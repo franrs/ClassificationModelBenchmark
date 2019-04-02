@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d68d0b1-9c58-4705-960a-25ee6292d5b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/W2.py" beforeDir="false" afterPath="$PROJECT_DIR$/W2.py" afterDir="false" />
     </list>
@@ -30,10 +28,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/W2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+            <state relative-caret-position="322">
+              <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#4#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -167,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554042339959</updated>
       <workItem from="1554042341468" duration="86000" />
-      <workItem from="1554042469082" duration="5818000" />
+      <workItem from="1554042469082" duration="11535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5904000" />
+    <option name="totallyTimeSpent" value="11621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="24" width="1872" height="1056" extended-state="6" />
@@ -192,7 +190,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32928312" />
       <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3297414" />
       <window_info anchor="right" x="0" y="0" width="418" height="856" id="Documentation" sideWeight="0.5016077" side_tool="true" visible="true" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -219,10 +217,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/W2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="44" column="56" selection-start-line="44" selection-start-column="56" selection-end-line="44" selection-end-column="56" />
+        <state relative-caret-position="322">
+          <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#4#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
