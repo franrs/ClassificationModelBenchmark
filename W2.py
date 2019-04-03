@@ -52,6 +52,8 @@ classifiers = {
     }
 }
 
+#%%
+# Trying all classifiers (cross-validating each one)
 for (estimator, param_grid) in classifiers.items():
     myGSCV = GridSearchCV(estimator=estimator, param_grid=param_grid, scoring='accuracy',
                           cv=StratifiedKFold(n_splits=10, random_state=3),
