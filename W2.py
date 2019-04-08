@@ -175,13 +175,17 @@ pprint(scores_list)
 
 #%%
 # TODO:
-#   - Test with other scoring systems (ROC->AUC, Precission Recall)
-#   - Plot confusion matrix
-#   - Test other estimators
+#   - Test with other scoring systems: https://scikit-learn.org/stable/modules/model_evaluation.html @ 3.3.2
+#   - Plot confusion matrix: https://scikit-learn.org/0.15/auto_examples/plot_confusion_matrix.html
+#   - Test other estimators: https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+#     also: https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-download-auto-examples-classification-plot-classifier-comparison-py
 #   - Research and document parameters election, as well as stratification process
-#   - Evaluation of statistical significancy of models in terms of performance (use: wilcoxon, boxplot)
+#   - Evaluation of statistical significancy of models in terms of performance
+#     - wilcoxon (https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.wilcoxon.html)
+#     - boxplot (https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py)
 #   - Research and apply other techniques, such us: no lineal features selection, sample selections,
 #     weight balancing (useful since the dataset is unbalanced)
+#   - Learning Evolution: https://scikit-learn.org/0.15/auto_examples/plot_learning_curve.html
 
 #%% NOTES
 # PCA only for visualization...
