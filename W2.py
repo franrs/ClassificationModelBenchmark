@@ -134,7 +134,7 @@ for (estimator, param_grid) in classifiers.items():
     # Plotting (Using dimension reduced variables Xp)
 
     # Xp = np.concatenate((Xp_train, Xp_test))
-    myGSCV.fit(Xp_train, y_train, class_weight=class_weights) # fit for PCA
+    myGSCV.fit(Xp_train, y_train) # fit for PCA
     yp_pred = myGSCV.predict(Xp_test) # prediction for PCA
 
     i += 1
