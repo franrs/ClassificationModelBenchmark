@@ -85,7 +85,7 @@ classifiers = {
 }
 
 #%% plotting dataset
-figure = plt.figure(figsize=(36, 18))
+figure = plt.figure(figsize=(24, 12))
 h = 0.01 # mesh step size
 i = 1
 
